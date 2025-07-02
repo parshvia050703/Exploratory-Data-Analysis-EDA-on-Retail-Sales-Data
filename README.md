@@ -40,3 +40,4 @@ Helps decision-makers identify sales patterns
 Supports targeted marketing and inventory planning
 Provides data-backed insights for business strategy
 
+![Visualization](https://github.com/parshvia050703/Exploratory-Data-Analysis-EDA-on-Retail-Sales-Data/blob/main/Screenshot%202025-07-02%20203415.png)
